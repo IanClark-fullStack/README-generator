@@ -17,9 +17,9 @@
 
   ## Description
   ------
-   To save time, this application will automate the process of creating individual readme files  by generating a readme using a CLI
+  To save time this application will automate the process of creating individual readme files  by generating a readme using CLI
   **Written w/**
-  Node, CLI, JavaScript
+  Node
 
   ## Installation
   ------
@@ -27,7 +27,7 @@
 
   ## Usage
   ------
-   Navigate to the project directory, and simply run 'node index'
+  Navigate to the project directory and simply run 'node index'
 
   ## Contributing
   ------
@@ -35,7 +35,7 @@
 
   ## Tests
   ------
-   Performed local tests, commited output to github for visual accuracy
+  Performed local tests, commited output to github for visual accuracy
   
   ## Questions
   ------
