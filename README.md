@@ -1,7 +1,7 @@
 # Grab & Read Me
   ------
   
-  https://img.shields.io/MIT/IanClark-fullStack/README-generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   ------
@@ -17,17 +17,17 @@
 
   ## Description
   ------
-  To save time, this project will automate the process of creating your repositories readme file  by creating new instances every time
+    To save time, this project will automate the process of creating your repositories readme file  by creating new instances every time by by creating new instances every project
   **Written w/**
-  Node, CLI, JavaScript 
+  Node, CLI, JavaScript
 
   ## Installation
   ------
-  Clone the repo to your machine, 
+  Clone the repo to your machine
 
   ## Usage
   ------
-  Navigate to the project directory, and simply run 'node index'
+   Navigate to the project directory, and simply run 'node index'
 
   ## Contributing
   ------
@@ -39,7 +39,7 @@
   
   ## Questions
   ------
-  [visit my github](https://www.github.com/IanClark-fullStack) 
+  [visit my github](https://www.github.com/IanClark.fullStack) 
   Reach out w/ Additional Questions. 
   ianclark.creative@gmail.com
   
