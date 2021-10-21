@@ -1,7 +1,7 @@
 # Grab & Read Me
   ------
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   ------
@@ -17,7 +17,7 @@
 
   ## Description
   ------
-    To save time, this project will automate the process of creating your repositories readme file  by creating new instances every time by by creating new instances every project
+   To save time, this application will automate the process of creating individual readme files  by generating a readme using a CLI
   **Written w/**
   Node, CLI, JavaScript
 
@@ -35,11 +35,11 @@
 
   ## Tests
   ------
-  Performed local tests, commited output to github for visual accuracy
+   Performed local tests, commited output to github for visual accuracy
   
   ## Questions
   ------
-  [visit my github](https://www.github.com/IanClark.fullStack) 
+  [visit my github](https://www.github.com/IanClark-fullStack) 
   Reach out w/ Additional Questions. 
   ianclark.creative@gmail.com
   
