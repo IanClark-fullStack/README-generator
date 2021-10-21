@@ -17,9 +17,14 @@
 
   ## Description
   ------
-  To save time this application will automate the process of creating individual readme files  by generating a readme using CLI
+   To save time, this application will automate the process of creating individual readme files  by generating a readme using a CLI
   **Written w/**
-  Node
+  Node, CLI, JavaScript
+  
+  https://github.com/IanClark-fullStack/README-generator/blob/56c934bdb263f1e337c7991571ce956cf4b61738/ReadMe.mp4
+  
+  
+  
 
   ## Installation
   ------
@@ -27,7 +32,7 @@
 
   ## Usage
   ------
-  Navigate to the project directory and simply run 'node index'
+   Navigate to the project directory, and simply run 'node index'
 
   ## Contributing
   ------
@@ -35,7 +40,7 @@
 
   ## Tests
   ------
-  Performed local tests, commited output to github for visual accuracy
+   Performed local tests, commited output to github for visual accuracy
   
   ## Questions
   ------
