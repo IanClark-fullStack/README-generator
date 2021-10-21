@@ -21,7 +21,7 @@
   **Written w/**
   Node, CLI, JavaScript
   
-  https://github.com/IanClark-fullStack/README-generator/blob/56c934bdb263f1e337c7991571ce956cf4b61738/ReadMe.mp4
+  ![link](https://github.com/IanClark-fullStack/README-generator/blob/56c934bdb263f1e337c7991571ce956cf4b61738/ReadMe.mp4)
   
   
   
